@@ -1,0 +1,19 @@
+body
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1
+{
+    background-color: blueviolet;
+    color:white; 
+}
+h2
+{
+    color: goldenrod;
+    border-bottom: 3px dotted black;
+    margin-left: 2em;
+}
+h1:hover
+{
+    background-color: burlywood;
+}
